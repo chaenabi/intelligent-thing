@@ -10,7 +10,7 @@
    그것이 바로 SoftwareSerial 라이브러리입니다.
 
    기본적으로 입출력 용도로 사용하도록 마련된 RX, TX를 하드웨어 시리얼이라고 부르는 것과 
-   구분짓기 위하여 SoftwareSerial이라 칭하고 있습니다.
+   구분짓기 위하여 SoftwareSerial이라고 칭하고 있습니다.
    2019년 경진대회 출품작에서는 SoftwareSerial 라이브러리를 사용하여 2, 3번 포트를 이용하였습니다. 
    SoftwareSerial esp8266(2,3);
    와 같이 초기화하여 사용할 수 있습니다.
