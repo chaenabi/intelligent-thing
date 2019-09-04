@@ -14,6 +14,7 @@
    2019년 경진대회 출품작에서는 SoftwareSerial 라이브러리를 사용하여 2, 3번 포트를 이용하였습니다. 
    SoftwareSerial esp8266(2,3);
    와 같이 초기화하여 사용할 수 있습니다.
+ 
  */
 
 #include <SoftwareSerial.h> //ESP8266 정보 연결
